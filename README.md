@@ -53,5 +53,3 @@ Outside of my work, I love staying active—**hitting the gym, playing basketbal
 
 📧 **Email:** [ronaldgeorge.sp@gmail.com](mailto:ronaldgeorge.sp@gmail.com)  
 🌐 **Portfolio:** [github.com/ronxldg](https://github.com/ronxldg)  
-
-Always open to **collaborations**, **research discussions**, or just geeking out over **AI & tech**! 🚀  
