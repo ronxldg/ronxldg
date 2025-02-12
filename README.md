@@ -18,6 +18,7 @@ Outside of my work, I love staying active—**hitting the gym, playing basketbal
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![Angular](https://img.shields.io/badge/Angular-E23237?logo=angular) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring) ![Django](https://img.shields.io/badge/Django-092D1F?logo=django) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud) ![Snowflake](https://img.shields.io/badge/Snowflake-00B0FF?logo=snowflake) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
+Certifications: Google Cloud Digital Leader (https://www.credly.com/badges/63952317-7e05-436b-b0b0-b56ff405fd7e/public_url)
 
 ---
 
