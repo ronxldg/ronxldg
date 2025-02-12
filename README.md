@@ -59,7 +59,7 @@ I'm currently building **InfoShield**, a startup focused on **combatting misinfo
 
 ---
 
-## 📫 Let's Connect!  
+## Let's Connect!  
 
-📧 **Email:** [ronaldgeorge.sp@gmail.com](mailto:ronaldgeorge.sp@gmail.com)  
-🌐 **Portfolio:** [github.com/ronxldg](https://github.com/ronxldg)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronxldg-blue?logo=linkedin)](https://www.linkedin.com/in/ronxldg/)
+**Email:** [ronaldgeorge.sp@gmail.com](mailto:ronaldgeorge.sp@gmail.com)
