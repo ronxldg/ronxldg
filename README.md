@@ -5,7 +5,7 @@
 
 ## About Me  
 
-I'm a **Software Engineer** and **Technology enthusiast** with a strong background in AI, full-stack development, and cloud computing. I graduated with my **B.S. in Computer Science** from Georgia Tech in December 2024, and I am currently pursuing my **M.S. in Computer Science (Machine Learning concentration) at Georgia Tech** expecting to graduate in December 2025. I thrive on solving real-world problems using data-driven approaches.
+I'm a **Software Engineer** and **Technology enthusiast** with a strong background in full-stack app development, AI/ML, and cloud computing. I graduated with my **B.S. in Computer Science** from Georgia Tech in December 2024, and I am currently pursuing my **M.S. in Computer Science (Machine Learning concentration) at Georgia Tech** expecting to graduate in December 2025. I thrive on solving real-world problems using data-driven approaches.
 
 Outside of my work, I love staying active—**hitting the gym, playing basketball, and watching all kinds of sports**. I also love **playing the guitar, exploring new restaurants, traveling to new places, and listening to music**.  
 
@@ -40,6 +40,7 @@ I'm currently building **InfoShield**, a startup focused on **combatting misinfo
 ### 📈 **Stock Price Predictor** (*Python, Kaggle, BERT*)  
 - Developed a **BERT-based financial model** integrating stock headlines & numerical metrics  
 - Boosted **prediction accuracy by 20%** over traditional LSTM-based approaches
+
 **GitHub Repo:** [ML-Stock-Price-Prediction](https://github.com/ronxldg/ML-Stock-Price-Prediction)  
 
 ### 🏭 **Factory Data Visualization** (*AWS, MindSphere, Cloud Computing*)  
