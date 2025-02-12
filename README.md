@@ -39,7 +39,8 @@ I'm currently building **InfoShield**, a startup focused on **combatting misinfo
 
 ### 📈 **Stock Price Predictor** (*Python, Kaggle, BERT*)  
 - Developed a **BERT-based financial model** integrating stock headlines & numerical metrics  
-- Boosted **prediction accuracy by 20%** over traditional LSTM-based approaches  
+- Boosted **prediction accuracy by 20%** over traditional LSTM-based approaches
+- **GitHub Repo:** [ML-Stock-Price-Prediction](https://github.com/ronxldg/ML-Stock-Price-Prediction)  
 
 ### 🏭 **Factory Data Visualization** (*AWS, MindSphere, Cloud Computing*)  
 - Built a **real-time data acquisition system** for industrial machinery  
