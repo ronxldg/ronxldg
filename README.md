@@ -23,10 +23,10 @@ Outside of my work, I love staying active—**hitting the gym, playing basketbal
 
 ## 🚀 What I'm Building Currently  
 
-🔹 **InfoShield – AI-Powered Misinformation Detection**  
+**InfoShield – AI-Powered Misinformation Detection**  
 I'm currently building **InfoShield**, a startup focused on **combatting misinformation across text, images, and video using cutting-edge AI**.  
 
-### 🔍 What InfoShield Does:  
+### What InfoShield Does:  
 **AI-Powered Fact-Checking** – Cross-references claims with credible sources  
 **Sentiment & Bias Analysis** – Identifies potential manipulation in content  
 **Deepfake & AI-Generated Content Detection** – Flags altered or synthetic media  
