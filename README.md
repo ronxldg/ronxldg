@@ -51,8 +51,7 @@ I'm currently building **InfoShield**, a startup focused on **combatting misinfo
 - Designed a **blogging feature** where users can share accomplishments and seek advice  
 - Overcame challenges in **API integration, database structuring, and real-time data visualization**  
 
-🔗 **Devpost:** [Gym Buddies](https://devpost.com/software/gym-buddies)  
-🔗 **Try it out:** [GymBuddies](http://gymbuddiesinc.herokuapp.com)
+**Devpost:** [Gym Buddies](https://devpost.com/software/gym-buddies)  
 
 ---
 
