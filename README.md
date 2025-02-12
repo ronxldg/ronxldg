@@ -1,7 +1,6 @@
 # Hi, I'm Ronald George  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronxldg-blue?logo=linkedin)](https://www.linkedin.com/in/ronxldg/)
-[![GitHub](https://img.shields.io/badge/GitHub-ronxldg-black?logo=github)](https://github.com/ronxldg/)
 
 ## About Me  
 
@@ -61,6 +60,6 @@ I'm currently building **InfoShield**, a startup focused on **combatting misinfo
 
 ## Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronxldg-blue?logo=linkedin)](https://www.linkedin.com/in/ronxldg/)
+**LinkedIn:**[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronxldg-blue?logo=linkedin)](https://www.linkedin.com/in/ronxldg/)
 
 **Email:** [ronaldgeorge.sp@gmail.com](mailto:ronaldgeorge.sp@gmail.com)
