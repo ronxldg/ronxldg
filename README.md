@@ -4,7 +4,7 @@
 
 ## About Me  
 
-I'm a **Software Engineer** and **Technology enthusiast** with a strong background in full-stack app development, AI/ML, data analytics and cloud computing. I graduated with my **B.S. in Computer Science** from Georgia Tech in December 2024, and I am currently pursuing my **M.S. in Computer Science (Machine Learning concentration) at Georgia Tech** expecting to graduate in December 2025. I thrive on solving real-world problems using data-driven approaches.
+I'm a **Software Engineer** and **Technology enthusiast** with a strong background in full-stack app development, AI/ML, data analytics, and cloud computing. I graduated with my **B.S. in Computer Science** from Georgia Tech in December 2024, and I am currently pursuing my **M.S. in Computer Science (Machine Learning concentration) at Georgia Tech** expecting to graduate in December 2025. I thrive on solving real-world problems using data-driven approaches.
 
 Outside of my work, I love staying active—**hitting the gym, playing basketball, and watching all kinds of sports**. I also love **playing the guitar, exploring new restaurants, traveling to new places, and listening to music**.  
 
