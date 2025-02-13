@@ -40,9 +40,7 @@ I'm currently building **InfoShield**, a startup focused on **combatting misinfo
 ### 🚗 EcoCAR Touchscreen Display (*QML, QtCreator, CAV Systems*)
 - Developed an **interactive touchscreen display** for **Georgia Tech's EcoCAR Connected and Autonomous Vehicles (CAVs) subteam**, enhancing **Human-Machine Interface (HMI)** for the Cadillac Lyriq
 - Designed **dynamic UI** components using **QML** in **QtCreator**, integrating **real-time vehicle diagnostics** and **CAN signals** for **adaptive cruise control, propulsion monitoring, and eco-mode indicators**
-- Troubleshot **hardware-software integration** issues on the **G2H2 touchscreen**, resolving **USB data routing, graphics switching, and display calibration** challenges
-- Improved system responsiveness and **user experience**, contributing to future scalability and touchscreen hardware selection research
-
+  
 **Georgia Tech EcoCAR team info:** [GT EcoCAR VIP Team](https://vip.gatech.edu/teams/vpu)   
 **GitHub Repo:** [EcoCAR Touchscreen](https://github.com/ronxldg/EcoCAR-Touchscreen)  
 
