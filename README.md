@@ -58,7 +58,6 @@ I'm currently building **InfoShield**, a startup focused on **combatting misinfo
 - Built a **full-stack gym assistant** that helps users **track workouts, visualize progress, and connect with a fitness community**  
 - Implemented **search-based exercise guidance with GIF demonstrations** via the **ExerciseDB API**  
 - Designed a **blogging feature** where users can share accomplishments and seek advice  
-- Overcame challenges in **API integration, database structuring, and real-time data visualization**  
 
 **Devpost:** [Gym Buddies](https://devpost.com/software/gym-buddies)  
 **Github Repo:** [Gym Buddies](https://github.com/ronxldg/GymBuddies)  
