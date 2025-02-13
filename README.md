@@ -52,7 +52,7 @@ I'm currently building **InfoShield**, a startup focused on **combatting misinfo
 
 ### 🏭 **Factory Data Visualization** (*AWS, MindSphere, Cloud Computing*)  
 - Built a **real-time data acquisition system** for industrial machinery  
-- Created a **dashboard using AWS & Snowflake**, boosting **factory efficiency by 10%**
+- Created a **dashboard using AWS & Snowflake**
 
 ### 🏋️‍♂️ **Gym Buddies** (*Django, SQLite, JavaScript, Bootstrap*)  
 - Built a **full-stack gym assistant** that helps users **track workouts, visualize progress, and connect with a fitness community**  
