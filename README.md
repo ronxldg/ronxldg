@@ -30,8 +30,7 @@ I'm currently building **InfoShield**, a web extension tool focused on **combatt
 **AI-Powered Fact-Checking** – Cross-references claims with credible sources  
 **Sentiment & Bias Analysis** – Identifies potential manipulation in content  
 **Deepfake & AI-Generated Content Detection** – Flags altered or synthetic media  
-**Real-Time Misinformation Alerts** – Helps prevent viral spread of false information on-demand in real-time, integrated seamleassly into a user's browser
-**Enterprise & Social Media Integration** – Provides an API for platforms & organizations
+**Real-Time Misinformation Alerts** – Helps prevent viral spread of false information on-demand in real time, integrated seamleassly into the user's browser
 
 **Devpost:** https://devpost.com/software/infoshield-xeqpck
 - Built frontend using **React** and **Node.js**
