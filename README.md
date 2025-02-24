@@ -24,15 +24,19 @@ Certifications: Google Cloud Digital Leader (https://www.credly.com/badges/63952
 ## 🚀 What I'm Building Currently  
 
 **InfoShield – AI-Powered Misinformation Detection**  
-I'm currently building **InfoShield**, a startup focused on **combatting misinformation across text, images, and video using cutting-edge AI**.  
+I'm currently building **InfoShield**, a web extension tool focused on **combatting misinformation across text, images, and video using cutting-edge AI**.  
 
 ### What InfoShield Does:  
 **AI-Powered Fact-Checking** – Cross-references claims with credible sources  
 **Sentiment & Bias Analysis** – Identifies potential manipulation in content  
 **Deepfake & AI-Generated Content Detection** – Flags altered or synthetic media  
 **Real-Time Misinformation Alerts** – Helps prevent viral spread of false information  
-**Enterprise & Social Media Integration** – Provides an API for platforms & organizations  
+**Enterprise & Social Media Integration** – Provides an API for platforms & organizations
 
+**Devpost:** https://devpost.com/software/infoshield-xeqpck
+- Built frontend using **React** and **Node.js**
+- Utilized **Python** and **FastAPI** for **backend and web scraping** with calls being made to **OpenAI** GPT 4o model
+  
 ---
 
 ## Past Projects  
