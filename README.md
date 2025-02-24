@@ -32,7 +32,8 @@ I'm currently building **InfoShield**, a web extension tool focused on **combatt
 **Deepfake & AI-Generated Content Detection** – Flags altered or synthetic media  
 **Real-Time Misinformation Alerts** – Helps prevent viral spread of false information on-demand in real time, integrated seamleassly into the user's browser
 
-**Devpost:** https://devpost.com/software/infoshield-xeqpck
+**Devpost:** [Infoshield] https://devpost.com/software/infoshield-xeqpck
+**Github Repo:** [Infoshield]((https://github.com/ronxldg/infoshieldHacklytics2025))  
 - Built frontend using **React** and **Node.js**
 - Utilized **Python** and **FastAPI** for **backend and web scraping** with calls being made to **OpenAI** GPT 4o model
   
