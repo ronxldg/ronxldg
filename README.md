@@ -21,25 +21,16 @@ Certifications: Google Cloud Digital Leader (https://www.credly.com/badges/63952
 
 ---
 
-## 🚀 What I'm Building Currently  
+## Projects  
 
-**InfoShield – AI-Powered Misinformation Detection**  
-I'm currently building **InfoShield**, a web extension tool focused on **combatting misinformation across text, images, and video using cutting-edge AI**.  
-
-### What InfoShield Does:  
-**AI-Powered Fact-Checking** – Cross-references claims with credible sources  
-**Sentiment & Bias Analysis** – Identifies potential manipulation in content  
-**Deepfake & AI-Generated Content Detection** – Flags altered or synthetic media  
-**Real-Time Misinformation Alerts** – Helps prevent viral spread of false information on-demand in real time, integrated seamleassly into the user's browser
+### 🛡️ InfoShield – AI-Powered Misinformation Detection (*React, Node.js, Python, FastAPI, Generative AI, NLP & Large Language Models*)
+- Developed a browser extension using **React** for the frontend and **FastAPI, Python, and Node.js** for backend services and web scraping.
+- Integrated **OpenAI GPT-4o** for real-time fact-checking, sentiment analysis, and bias detection across text, images, and video content.
+- Implemented a **multi-modal** misinformation detection pipeline, supporting cross-referencing of claims with over 100 verified sources.
+- Achieved **sub-2 second response times** for real-time alerts and over **90% precision** in identifying manipulated or AI-generated media.
 
 **Devpost:** [Infoshield](https://devpost.com/software/infoshield-xeqpck)       
-**Github Repo:** [Infoshield](https://github.com/ronxldg/infoshieldHacklytics2025)  
-- Built frontend primarily using **React**
-- Utilized **Python**, **Node.js** and **FastAPI** for **backend and web scraping** with calls being made to **OpenAI** GPT 4o model
-  
----
-
-## Past Projects  
+**GitHub Repo:** [Infoshield](https://github.com/ronxldg/infoshieldHacklytics2025)  
 
 ### 🚗 EcoCAR Touchscreen Display (*QML, QtCreator, CAV Systems*)
 - Developed an **interactive touchscreen display** for **Georgia Tech's EcoCAR Connected and Autonomous Vehicles (CAVs) subteam**, enhancing **Human-Machine Interface (HMI)** for the Cadillac Lyriq
