@@ -23,11 +23,10 @@ Certifications: Google Cloud Digital Leader (https://www.credly.com/badges/63952
 
 ## Projects  
 
-### 🛡️ InfoShield – AI-Powered Misinformation Detection (*React, Node.js, Python, FastAPI, Generative AI, NLP & Large Language Models*)
-- Developed a browser extension using **React** for the frontend and **FastAPI, Python, and Node.js** for backend services and web scraping.
-- Integrated **OpenAI GPT-4o** for real-time fact-checking, sentiment analysis, and bias detection across text, images, and video content.
-- Implemented a **multi-modal** misinformation detection pipeline, supporting cross-referencing of claims with over 100 verified sources.
-- Achieved **sub-2 second response times** for real-time alerts and over **90% precision** in identifying manipulated or AI-generated media.
+### 🛡️ InfoShield – AI-Powered Misinformation Detection (*React, Node.js, Python, FastAPI, Generative AI*)
+- Developed a browser extension using **React** for the frontend and **FastAPI, Python, and Node.js** for backend services and web scraping
+- Integrated **OpenAI GPT-4o** for real-time fact-checking, sentiment analysis, and bias detection across text, images, and video content
+- Achieved **sub-2 second response times** for real-time alerts and over **90% precision** in identifying manipulated or AI-generated media
 
 **Devpost:** [Infoshield](https://devpost.com/software/infoshield-xeqpck)       
 **GitHub Repo:** [Infoshield](https://github.com/ronxldg/infoshieldHacklytics2025)  
@@ -39,7 +38,7 @@ Certifications: Google Cloud Digital Leader (https://www.credly.com/badges/63952
 **Georgia Tech EcoCAR team info:** [GT EcoCAR VIP Team](https://vip.gatech.edu/teams/vpu)   
 **GitHub Repo:** [EcoCAR Touchscreen](https://github.com/ronxldg/EcoCAR-Touchscreen)  
 
-### 📈 **Stock Price Predictor** (*Python, Kaggle, BERT*)  
+### 📈 **Stock Price Predictor** (*Python, Kaggle, BERT, Machine Learning and NLP*)  
 - Developed a **BERT-based financial model** integrating stock headlines & numerical metrics  
 - Boosted **prediction accuracy by 20%** over traditional LSTM-based approaches
 
