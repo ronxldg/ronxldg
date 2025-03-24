@@ -34,8 +34,8 @@ I'm currently building **InfoShield**, a web extension tool focused on **combatt
 
 **Devpost:** [Infoshield](https://devpost.com/software/infoshield-xeqpck)       
 **Github Repo:** [Infoshield](https://github.com/ronxldg/infoshieldHacklytics2025)  
-- Built frontend using **React** and **Node.js**
-- Utilized **Python** and **FastAPI** for **backend and web scraping** with calls being made to **OpenAI** GPT 4o model
+- Built frontend primarily using **React**
+- Utilized **Python**, **Node.js** and **FastAPI** for **backend and web scraping** with calls being made to **OpenAI** GPT 4o model
   
 ---
 
