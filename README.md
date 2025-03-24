@@ -1,4 +1,4 @@
-# Hi, I'm Ronald George  
+# Hi, I'm Ronald  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronxldg-blue?logo=linkedin)](https://www.linkedin.com/in/ronxldg/)
 
