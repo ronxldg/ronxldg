@@ -26,7 +26,7 @@ Certifications: Google Cloud Digital Leader (https://www.credly.com/badges/63952
 ### 🛡️ InfoShield – AI-Powered Misinformation Detection (*React, Node.js, Python, FastAPI, Generative AI*)
 - Developed a browser extension using **React** for the frontend and **FastAPI, Python, and Node.js** for backend services and web scraping
 - Integrated **OpenAI GPT-4o** for real-time fact-checking, sentiment analysis, and bias detection across text, images, and video content
-- Achieved **sub-2 second response times** for real-time alerts and over **90% precision** in identifying manipulated or AI-generated media
+- Achieved **sub-2 second response times** for real-time alerts and over **90% accuracy** in identifying manipulated or AI-generated media
 
 **Devpost:** [Infoshield](https://devpost.com/software/infoshield-xeqpck)       
 **GitHub Repo:** [Infoshield](https://github.com/ronxldg/infoshieldHacklytics2025)  
