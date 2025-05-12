@@ -31,6 +31,15 @@ Certifications: Google Cloud Digital Leader (https://www.credly.com/badges/63952
 
 **GitHub Repo:** [NBA-WhatIf-Radar-App](https://github.com/ronxldg/nba-dva-whatif)
 
+### 🔥 Wildfire Spread Simulator – SEIQRDP & Graph Models (*Python, NetworkX, NumPy, Matplotlib*)
+
+- Simulated California wildfire propagation using a **2D SEIQRDP model** and a **graph-based network model** informed by meteorological and land cover data
+- Built a **custom RK4 solver** for differential equations and animated fire dynamics using Matplotlib
+- Encoded fire transmission probabilities based on **wind, temperature, humidity, precipitation, and distance**
+- Evaluated effectiveness of **firefighting response times** and visualized multi-phase spread dynamics
+- 
+**GitHub Repo:** [modsim-wildfire-spread](https://github.com/ronxldg/modsim-wildfire-spread)
+
 ### 🛡️ InfoShield – AI-Powered Misinformation Detection (*React, Node.js, Python, FastAPI, Generative AI*)
 - Developed a browser extension using **React** for the frontend and **FastAPI, Python, and Node.js** for backend services and web scraping
 - Integrated **OpenAI GPT-4o** for real-time fact-checking, sentiment analysis, and bias detection across text, images, and video content
