@@ -37,7 +37,7 @@ Certifications: Google Cloud Digital Leader (https://www.credly.com/badges/63952
 - Built a **custom RK4 solver** for differential equations and animated fire dynamics using Matplotlib
 - Encoded fire transmission probabilities based on **wind, temperature, humidity, precipitation, and distance**
 - Evaluated effectiveness of **firefighting response times** and visualized multi-phase spread dynamics
-- 
+
 **GitHub Repo:** [modsim-wildfire-spread](https://github.com/ronxldg/modsim-wildfire-spread)
 
 ### 🛡️ InfoShield – AI-Powered Misinformation Detection (*React, Node.js, Python, FastAPI, Generative AI*)
