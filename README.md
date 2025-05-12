@@ -61,10 +61,6 @@ Certifications: Google Cloud Digital Leader (https://www.credly.com/badges/63952
 
 **GitHub Repo:** [ML-Stock-Price-Prediction](https://github.com/ronxldg/ML-Stock-Price-Prediction)  
 
-### 🏭 **Factory Data Visualization** (*AWS, MindSphere, Cloud Computing*)  
-- Built a **real-time data acquisition system** for industrial machinery  
-- Created a **dashboard using AWS & Snowflake**
-
 ### 🏋️‍♂️ **Gym Buddies** (*Django, SQLite, JavaScript, Bootstrap*)  
 - Built a **full-stack gym assistant** that helps users **track workouts, visualize progress, and connect with a fitness community**  
 - Implemented **search-based exercise guidance with GIF demonstrations** via the **ExerciseDB API**  
