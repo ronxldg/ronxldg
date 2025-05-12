@@ -23,6 +23,14 @@ Certifications: Google Cloud Digital Leader (https://www.credly.com/badges/63952
 
 ## Projects  
 
+### 🏀 NBA What-If Radar App & Title Predictor (*Flask, React, Python, Logistic Regression, Data Visualization*)  
+- Built a full-stack web app that simulates **NBA player swaps**, compares **team performance**, and predicts **title winners** using historical and play-by-play data  
+- Developed interactive **radar charts**, substitution interfaces, and a season-long **player impact simulator** powered by a trained **multi-output regression model** (Test MAE: 13.29, RMSE: 16.06)  
+- Trained a **logistic regression classifier** on 2014–2024 NBA data to predict **2024–25 title odds**, with visualizations for win probability  
+- Enables exploration of "what-if" matchups, season-level player substitutions, and dynamic team analysis for fans and analysts  
+
+**GitHub Repo:** [NBA-WhatIf-Radar-App](https://github.com/ronxldg/nba-dva-whatif)
+
 ### 🛡️ InfoShield – AI-Powered Misinformation Detection (*React, Node.js, Python, FastAPI, Generative AI*)
 - Developed a browser extension using **React** for the frontend and **FastAPI, Python, and Node.js** for backend services and web scraping
 - Integrated **OpenAI GPT-4o** for real-time fact-checking, sentiment analysis, and bias detection across text, images, and video content
